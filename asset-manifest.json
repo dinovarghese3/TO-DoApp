@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/TO-DoApp.gihub.io/static/css/main.6b451783.chunk.css",
+    "main.js": "/TO-DoApp.gihub.io/static/js/main.99c89376.chunk.js",
+    "main.js.map": "/TO-DoApp.gihub.io/static/js/main.99c89376.chunk.js.map",
+    "runtime-main.js": "/TO-DoApp.gihub.io/static/js/runtime-main.b3b04046.js",
+    "runtime-main.js.map": "/TO-DoApp.gihub.io/static/js/runtime-main.b3b04046.js.map",
+    "static/js/2.f514f56a.chunk.js": "/TO-DoApp.gihub.io/static/js/2.f514f56a.chunk.js",
+    "static/js/2.f514f56a.chunk.js.map": "/TO-DoApp.gihub.io/static/js/2.f514f56a.chunk.js.map",
+    "index.html": "/TO-DoApp.gihub.io/index.html",
+    "precache-manifest.8a000ce793d8075f605aa98111303533.js": "/TO-DoApp.gihub.io/precache-manifest.8a000ce793d8075f605aa98111303533.js",
+    "service-worker.js": "/TO-DoApp.gihub.io/service-worker.js",
+    "static/css/main.6b451783.chunk.css.map": "/TO-DoApp.gihub.io/static/css/main.6b451783.chunk.css.map",
+    "static/js/2.f514f56a.chunk.js.LICENSE.txt": "/TO-DoApp.gihub.io/static/js/2.f514f56a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b3b04046.js",
+    "static/js/2.f514f56a.chunk.js",
+    "static/css/main.6b451783.chunk.css",
+    "static/js/main.99c89376.chunk.js"
+  ]
+}
